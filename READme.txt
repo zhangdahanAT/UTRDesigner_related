@@ -1,1 +1,1 @@
-This file contains database and codes related to DMS-MaSeq of human
+This file contains database and codes related to 5UTRDesigner.
